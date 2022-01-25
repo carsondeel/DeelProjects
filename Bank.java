@@ -211,7 +211,7 @@ static void changeaccname()throws Exception
 
   int ch,inch;
 
-  System.out.println("\n\t\f Welcome to POLARIS bank pvt.ltd \f\n ");
+  System.out.println("\n\t\f Welcome to DEEL bank pvt.ltd \f\n ");
 
   System.out.println("New customer ?\t\tAlready have an account ?");
 
@@ -253,7 +253,7 @@ static void changeaccname()throws Exception
 
   if(autho==9999 && authopin==6666)
   {
-    System.out.println("\n\tWelcome ADMIN : Dhruva Phulsundar A.K.A : POLARIS");
+    System.out.println("\n\tWelcome ADMIN : Carson Deel A.K.A");
     break;
   }
 
@@ -344,7 +344,7 @@ static void changeaccname()throws Exception
 
       System.out.println("\nThank you for Banking with us !");
 
-      System.out.println("Polaris Bank Pvt.Ltd");
+      System.out.println("Deel Bank Pvt.Ltd");
 
       break;
 
@@ -398,17 +398,7 @@ else
  break;
 }//outer switch//
 
-//System.out.println("\n\n\tThe program is coded by : Dhruva Phulsundar CO5G_04-08-2015");
 
-//System.out.println("\n\tPing him at :dhruv.phulsundar@gmail.com"); 
+}
 
-}//psvm//
-
-}//class//
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
+}
